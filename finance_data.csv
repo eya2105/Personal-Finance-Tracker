@@ -1,0 +1,15 @@
+date,amount,category,description
+01-01-2024,5000,Income,Salary
+05-01-2024,200,Expense,Groceries
+10-01-2024,150,Expense,Utilities
+15-01-2024,1000,Income,Freelance Work
+20-01-2024,50,Expense,Transport
+25-01-2024,300,Expense,Shopping
+30-01-2024,4500,Income,Bonus
+01-02-2024,250,Expense,Insurance
+05-02-2024,200,Expense,Groceries
+10-02-2024,100,Expense,Utilities
+15-02-2024,1500,Income,Freelance Work
+20-02-2024,60,Expense,Transport
+25-02-2024,400,Expense,Shopping
+28-02-2024,5000,Income,Salary
